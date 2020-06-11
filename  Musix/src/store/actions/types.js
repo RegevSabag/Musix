@@ -1,0 +1,7 @@
+// User types
+export const SET_SEARCH_VIDEO = 'SET_SEARCH_VIDEO';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_ITEM_CLICKED = 'SET_ITEM_CLICKED';
+export const SET_ITEMS_HISTORY = 'SET_ITEMS_HISTORY';
+export const ADD_ITEM_HISTORY = 'ADD_ITEM_HISTORY';
+export const ADD_ITEM_FAVORITE = 'ADD_ITEM_FAVORITE';
