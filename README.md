@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  Musix :computer:
+  Musix is a music player base on YouTube to search videos and to download it for offline use :headphones:
 </h2>
 
 
@@ -16,8 +16,8 @@
 * React & Redux
 # Features
 * Videos search
-* Download video to use offline
 * Play in background
+* Download video to use offline
 * Support Mission control
 * Delete video
 * Add videos to favorites
