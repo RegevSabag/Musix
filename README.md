@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  Musix is a music player base on YouTube to search videos and to download it for offline use :headphones:
+  Musix is a music player based on YouTube for search videos and downloading it for offline use :headphones:
 </h2>
 
 
@@ -13,7 +13,8 @@
 # Technology
 * Node.js
 * Express
-* React & Redux
+* REACT-NATIVE
+* Redux
 # Features
 * Videos search
 * Play in background
